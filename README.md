@@ -1,6 +1,6 @@
 # Finger-Detection
 
-Image Processing 2022 Project
+Image Processing Project 2022 (Still on development)
 
 ## Library
 
