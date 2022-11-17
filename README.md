@@ -6,4 +6,4 @@ Image Processing Project 2022 (Still on development)
 
 - OpenCV
 - Numpy
-
+- Matplotlib
